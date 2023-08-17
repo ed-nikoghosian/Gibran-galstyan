@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tigran-galstyan/static/css/main.fee8358a.css",
-    "main.js": "/tigran-galstyan/static/js/main.d46626ab.js",
+    "main.css": "/tigran-galstyan/static/css/main.ccd4f1f7.css",
+    "main.js": "/tigran-galstyan/static/js/main.c6b1326e.js",
     "static/media/bg.mp4": "/tigran-galstyan/static/media/bg.a1c2534643fee9cddce8.mp4",
     "static/media/08.png": "/tigran-galstyan/static/media/08.fdb64bedd2536b6d5be9.png",
     "static/media/12.png": "/tigran-galstyan/static/media/12.b46c7fe0a232993261fb.png",
@@ -14,7 +14,6 @@
     "static/media/11.png": "/tigran-galstyan/static/media/11.3c5ac67b8fe3046bfddb.png",
     "static/media/02.png": "/tigran-galstyan/static/media/02.1b05fa1b2aa697648b9e.png",
     "static/media/06.png": "/tigran-galstyan/static/media/06.6b04da063dca124b1f2c.png",
-    "static/media/hero.webp": "/tigran-galstyan/static/media/hero.3fe4637375dcccf99103.webp",
     "static/media/17.png": "/tigran-galstyan/static/media/17.38460a4fc1db3e1f5d94.png",
     "static/media/01.png": "/tigran-galstyan/static/media/01.854c85aa2dd904458861.png",
     "static/media/15.png": "/tigran-galstyan/static/media/15.e576b5adc3405d6f4d1a.png",
@@ -31,13 +30,14 @@
     "static/media/13.png": "/tigran-galstyan/static/media/13.560a113020e7b5f6c610.png",
     "static/media/si.wav": "/tigran-galstyan/static/media/si.63542d9938c8470afc24.wav",
     "static/media/profile.png": "/tigran-galstyan/static/media/profile.d7075adcfb5d78916c11.png",
+    "static/media/hero.webp": "/tigran-galstyan/static/media/hero.8f78ec43d90c15c6a813.webp",
     "static/media/footer_right_photo.png": "/tigran-galstyan/static/media/footer_right_photo.0ae8f3ce009282a97a31.png",
     "index.html": "/tigran-galstyan/index.html",
-    "main.fee8358a.css.map": "/tigran-galstyan/static/css/main.fee8358a.css.map",
-    "main.d46626ab.js.map": "/tigran-galstyan/static/js/main.d46626ab.js.map"
+    "main.ccd4f1f7.css.map": "/tigran-galstyan/static/css/main.ccd4f1f7.css.map",
+    "main.c6b1326e.js.map": "/tigran-galstyan/static/js/main.c6b1326e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fee8358a.css",
-    "static/js/main.d46626ab.js"
+    "static/css/main.ccd4f1f7.css",
+    "static/js/main.c6b1326e.js"
   ]
 }
