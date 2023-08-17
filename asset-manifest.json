@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tigran-galstyan/static/css/main.ccd4f1f7.css",
-    "main.js": "/tigran-galstyan/static/js/main.bb9ee2ee.js",
+    "main.js": "/tigran-galstyan/static/js/main.5f1b92cf.js",
     "static/media/bg.mp4": "/tigran-galstyan/static/media/bg.a1c2534643fee9cddce8.mp4",
     "static/media/08.png": "/tigran-galstyan/static/media/08.fdb64bedd2536b6d5be9.png",
     "static/media/12.png": "/tigran-galstyan/static/media/12.b46c7fe0a232993261fb.png",
@@ -34,10 +34,10 @@
     "static/media/footer_right_photo.png": "/tigran-galstyan/static/media/footer_right_photo.0ae8f3ce009282a97a31.png",
     "index.html": "/tigran-galstyan/index.html",
     "main.ccd4f1f7.css.map": "/tigran-galstyan/static/css/main.ccd4f1f7.css.map",
-    "main.bb9ee2ee.js.map": "/tigran-galstyan/static/js/main.bb9ee2ee.js.map"
+    "main.5f1b92cf.js.map": "/tigran-galstyan/static/js/main.5f1b92cf.js.map"
   },
   "entrypoints": [
     "static/css/main.ccd4f1f7.css",
-    "static/js/main.bb9ee2ee.js"
+    "static/js/main.5f1b92cf.js"
   ]
 }
