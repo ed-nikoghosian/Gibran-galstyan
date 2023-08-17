@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/tigran-galstyan/static/css/main.ccd4f1f7.css",
+    "main.js": "/tigran-galstyan/static/js/main.bb9ee2ee.js",
+    "static/media/bg.mp4": "/tigran-galstyan/static/media/bg.a1c2534643fee9cddce8.mp4",
+    "static/media/08.png": "/tigran-galstyan/static/media/08.fdb64bedd2536b6d5be9.png",
+    "static/media/12.png": "/tigran-galstyan/static/media/12.b46c7fe0a232993261fb.png",
+    "static/media/04.png": "/tigran-galstyan/static/media/04.fa7d2e8d6d527e70ce89.png",
+    "static/media/05.png": "/tigran-galstyan/static/media/05.fa7d2e8d6d527e70ce89.png",
+    "static/media/09.png": "/tigran-galstyan/static/media/09.aaa70004e8f5cfcf1c4e.png",
+    "static/media/07.png": "/tigran-galstyan/static/media/07.1a08738da7e2837845a2.png",
+    "static/media/10.png": "/tigran-galstyan/static/media/10.db31fcd864b3e950bb7a.png",
+    "static/media/03.png": "/tigran-galstyan/static/media/03.e174bda463e0e30222a6.png",
+    "static/media/11.png": "/tigran-galstyan/static/media/11.3c5ac67b8fe3046bfddb.png",
+    "static/media/02.png": "/tigran-galstyan/static/media/02.1b05fa1b2aa697648b9e.png",
+    "static/media/06.png": "/tigran-galstyan/static/media/06.6b04da063dca124b1f2c.png",
+    "static/media/hero.webp": "/tigran-galstyan/static/media/hero.3fe4637375dcccf99103.webp",
+    "static/media/17.png": "/tigran-galstyan/static/media/17.38460a4fc1db3e1f5d94.png",
+    "static/media/01.png": "/tigran-galstyan/static/media/01.854c85aa2dd904458861.png",
+    "static/media/15.png": "/tigran-galstyan/static/media/15.e576b5adc3405d6f4d1a.png",
+    "static/media/cv.png": "/tigran-galstyan/static/media/cv.957f3f947b9a01cd7b1f.png",
+    "static/media/do.wav": "/tigran-galstyan/static/media/do.d2273d9374b0aacfd4b9.wav",
+    "static/media/16.png": "/tigran-galstyan/static/media/16.15ab1e7f6a8c0dc4c284.png",
+    "static/media/18.png": "/tigran-galstyan/static/media/18.7f0868900db281944a32.png",
+    "static/media/re.wav": "/tigran-galstyan/static/media/re.b5b5c3d79ab33b4704ca.wav",
+    "static/media/la.wav": "/tigran-galstyan/static/media/la.3e648b73afd5c891afc5.wav",
+    "static/media/mi.wav": "/tigran-galstyan/static/media/mi.bc4ecd0723178a34338a.wav",
+    "static/media/sol.wav": "/tigran-galstyan/static/media/sol.5585441e2fe54167a4bb.wav",
+    "static/media/fa.wav": "/tigran-galstyan/static/media/fa.a16b1b6186a229e8cb1d.wav",
+    "static/media/14.png": "/tigran-galstyan/static/media/14.e59b68a1e8ad3743d3b5.png",
+    "static/media/13.png": "/tigran-galstyan/static/media/13.560a113020e7b5f6c610.png",
+    "static/media/si.wav": "/tigran-galstyan/static/media/si.63542d9938c8470afc24.wav",
+    "static/media/profile.png": "/tigran-galstyan/static/media/profile.d7075adcfb5d78916c11.png",
+    "static/media/footer_right_photo.png": "/tigran-galstyan/static/media/footer_right_photo.0ae8f3ce009282a97a31.png",
+    "index.html": "/tigran-galstyan/index.html",
+    "main.ccd4f1f7.css.map": "/tigran-galstyan/static/css/main.ccd4f1f7.css.map",
+    "main.bb9ee2ee.js.map": "/tigran-galstyan/static/js/main.bb9ee2ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd4f1f7.css",
+    "static/js/main.bb9ee2ee.js"
+  ]
+}
